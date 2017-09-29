@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/BLAST VR COLORS SCI FI SCENE.unity
+  isLoaded: 1
+  isActive: 1
